@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<!--
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0057e7&height=150&section=header&text=capsule%20render&fontSize=90)
+
+<img src="https://img.shields.io/badge/java-blue?style=flat&logo=java&logoColor=white"/>
+
 **gahyonii/gahyonii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
